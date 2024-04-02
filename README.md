@@ -37,7 +37,5 @@ OPEN_AI_API_KEY_=your_api_key_here
 - Run the Streamlit app:
 streamlit run app.py
 
-## About the Author
-ProfessorGPT App is developed by Devesh Parashar. Connect with me on [LinkedIn](https://www.linkedin.com/in/devesh-parashar/) to learn more about my projects.
 
 Happy learning with ProfessorGPT! 📚🎓
