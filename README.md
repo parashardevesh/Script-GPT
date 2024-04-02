@@ -17,8 +17,8 @@ Easy to Use: Simply type your query and click a button to get a detailed lecture
 Fast and Efficient: With the power of OpenAI's GPT-3.5 model, you'll receive a lecture in no time.
 
 ## Technologies Used
-**Streamlit**: A popular Python library for building interactive web applications.
-**OpenAI API**: Harnessing the capabilities of state-of-the-art natural language processing models.
+- **Streamlit**: A popular Python library for building interactive web applications.
+- **OpenAI API**: Harnessing the capabilities of state-of-the-art natural language processing models.
 
 ## Installation
 To run ProfessorGPT locally, follow these steps:
