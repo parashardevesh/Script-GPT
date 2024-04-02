@@ -8,9 +8,9 @@ Whether you're a student looking to understand complex topics or a teacher seeki
 ## Getting Started
 To use ProfessorGPT, follow these simple steps:
 
-*Input your Query*: Enter the topic or concept you want to learn about in the text input box provided.
-*Teach Me Button*: Click on the "Teach Me" button to let ProfessorGPT generate a lecture based on your query.
-*Explore the Lecture*: Once the lecture is generated, you'll see it displayed on the screen. Dive into the content and absorb the knowledge!
+- *Input your Query*: Enter the topic or concept you want to learn about in the text input box provided.
+- *Teach Me Button*: Click on the "Teach Me" button to let ProfessorGPT generate a lecture based on your query.
+- *Explore the Lecture*: Once the lecture is generated, you'll see it displayed on the screen. Dive into the content and absorb the knowledge!
 
 ## Features
 Easy to Use: Simply type your query and click a button to get a detailed lecture.
