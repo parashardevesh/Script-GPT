@@ -30,7 +30,7 @@ git clone https://github.com/your/repo.git
 pip install -r requirements.txt
 
 - Set up your environment variables:
--Create a .env file in the root directory.
+- Create a .env file in the root directory.
 Add your OpenAI API key to the .env file:
 OPEN_AI_API_KEY_=your_api_key_here
 
