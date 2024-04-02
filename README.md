@@ -24,7 +24,7 @@ Fast and Efficient: With the power of OpenAI's GPT-3.5 model, you'll receive a l
 To run ProfessorGPT locally, follow these steps:
 
 - Clone the repository:
-git clone https://github.com/your/repo.git
+git clone #https://github.com/your/repo.git
 
 - Install the required dependencies:
 pip install -r requirements.txt
